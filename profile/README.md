@@ -1,6 +1,6 @@
 # Rade-Studio 💻👨‍💻
 
-¡Bienvenidos a Rade-Studio! Somos un equipo de desarrollo de software especializado en proyectos de Python y .NET. Contamos con un grupo de programadores altamente capacitados y dedicados, que se aseguran de que cada proyecto que emprendemos cumpla con los estándares más altos de calidad.
+¡Bienvenidos a Rade-Studio! Somos un equipo de desarrollo de software especializado en proyectos para aplicativos web empresariales y sencillos acomodado a las necesidades del cliente. Contamos con un grupo de programadores altamente capacitados y dedicados, que se aseguran de que cada proyecto que emprendemos cumpla con los estándares más altos de calidad.
 
 ## Nuestras habilidades 🚀
 
