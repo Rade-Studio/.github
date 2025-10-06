@@ -4,6 +4,14 @@
 
 ## Nuestras habilidades 🚀
 
+- Front End
+  - React.js
+  - Angular.js
+  - Typescript
+  - Tailwinds.css
+  - Vercel
+  - Shadcdn
+
 - Python 🐍
   - FastAPI 🎁
   - NumPy 🔢
